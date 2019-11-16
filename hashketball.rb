@@ -183,7 +183,6 @@ def big_shoe_rebounds
         rebound = value[:rebounds]
       end
     end
-  end
   return rebound
 end
 
